@@ -6,7 +6,7 @@
         "lang": "pt",
         "code": 42,
         "version": "1.4.0",
-        "nsfw": 1,
+        "nsfw": 0,
         "sources": [
             {
                 "name": "AnimeKai",
