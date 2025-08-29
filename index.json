@@ -7,14 +7,5 @@
     "code": 1,
     "version": "1.4.0",
     "nsfw": 0
-  },
-  {
-    "name": "Portugues (BR)",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.br",
-    "apk": "https://github.com/filipqirko/my-aniyomi-repo/raw/main/apk/animekai-release.apk",
-    "lang": "pt",
-    "code": 42,
-    "version": "1.4.0",
-    "nsfw": 0
   }
 ]
