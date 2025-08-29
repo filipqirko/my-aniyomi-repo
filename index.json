@@ -6,15 +6,6 @@
         "lang": "pt",
         "code": 42,
         "version": "1.4.0",
-        "nsfw": 0,
-        "sources": [
-            {
-                "name": "AnimeKai",
-                "lang": "all",
-                "id": "6289731484943315811",
-                "baseUrl": "https://animekai.bz",
-                "versionId": 1
-            }
-        ]
+        "nsfw": 0
     }
 ]
