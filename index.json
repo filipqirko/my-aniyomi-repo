@@ -1,11 +1,20 @@
 [
-  {
-    "name": "Portugues (BR)",
-    "pkg": "eu.kanade.tachiyomi.extension.pt.br",
-    "apk": "https://github.com/filipqirko/my-aniyomi-repo/raw/main/apk/animekai-release.apk",
-    "lang": "pt",
-    "code": 42,
-    "version": "1.4.0",
-    "nsfw": 1
-  }
+    {
+        "name": "AnimeKai",
+        "pkg": "eu.kanade.tachiyomi.extension.pt.animekai",
+        "apk": "https://github.com/filipqirko/my-aniyomi-repo/raw/main/apk/animekai-release.apk",
+        "lang": "pt",
+        "code": 42,
+        "version": "1.4.0",
+        "nsfw": 1,
+        "sources": [
+            {
+                "name": "AnimeKai",
+                "lang": "all",
+                "id": "6289731484943315811",
+                "baseUrl": "https://animekai.bz",
+                "versionId": 1
+            }
+        ]
+    }
 ]
